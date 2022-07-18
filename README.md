@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilhamh4x0r
+- 👋 Hi, I’m Ilham Wicaksono / Ilham HaX0r
 - 👀 I’m interested in lua programming
 - 🌱 I’m currently learning lua
 
